@@ -1,0 +1,2 @@
+temperature 2024.03.28 "Kras" 23.5 45.0
+pressure 2024.03.28 "Mos" 760.2
