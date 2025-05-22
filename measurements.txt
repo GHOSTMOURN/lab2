@@ -1,2 +1,4 @@
-temperature 2024.03.28 "Kras" 23.5 45.0
+temperature 2024.03.28 "kras" 23.5 45.0
 pressure 2024.03.28 "Mos" 760.2
+pressure 2000.11.03 "da" 11.0
+temperature 2000.11.03 "da" 11.0 44.0
